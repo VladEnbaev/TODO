@@ -1,5 +1,5 @@
 # TODO
-This is my TODO App.<br> 
+This is my simple TODO App.<br> 
 I didn't use storyboard or Xibs(the exception is a TableViewCell). <br>
 Technologies used: UITableView, UISplitView, several others UI elements and UserDefaults.<br>
 Architecture: MVC
